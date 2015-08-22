@@ -1,4 +1,4 @@
-由 ![AirScript][6] 提供的中文 CyanogenMod 社区支持。
+由 [AirScript][6] 提供的中文 CyanogenMod 社区支持。
 
 ![cyanogenmod-logo.jpg][7]
 
