@@ -1,3 +1,4 @@
+由 ![AirScript][6] 提供的中文 CyanogenMod 社区支持。
 
 ![cyanogenmod-logo.jpg][7]
 
@@ -54,11 +55,10 @@ WIKI
 下载
 ---
 
-（译者注：国内镜像由我自行制作）
 官方 CM 12.1 版本: [http://download.cyanogenmod.org/?device=cancro][14]
-国内镜像：[http://pan.baidu.com/s/1sjDUTGx][15] （包含 Cyanogen Recovery）
+百度云：[http://pan.baidu.com/s/1sjDUTGx][15] （包含 Cyanogen Recovery）
 Google Apps (arm): [http://wiki.cyanogenmod.org/w/gapps][16]
-国内镜像：[http://pan.baidu.com/s/1mg3pDXm][17]
+百度云：[http://pan.baidu.com/s/1mg3pDXm][17]
 
 BUGS
 ----
@@ -103,7 +103,7 @@ ROM 固件要求: 至少是 MIUI 多语言 5.7.26 版
 
 
 
-
+  [6]: https://www.airscr.com/
   [7]: https://dn-airscr.qbox.me/2015/08/2964752827.png
   [8]: https://github.com/CyanogenMod
   [9]: http://review.cyanogenmod.org/
