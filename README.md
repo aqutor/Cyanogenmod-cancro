@@ -18,11 +18,11 @@ CyanogenMod 是一个基于 AOSP（Android开源项目 Android Open Source Proje
 注意
 ---
 我们不会对以下用户提供支持或解决问题：
-运行第三方内核
-以及进入刷机模式
-修改系统文件
-不严格执行我们的步骤
-没有礼貌
+ - 运行第三方内核
+ - 以及进入刷机模式
+ - 修改系统文件
+ - 不严格执行我们的步骤
+ - 没有礼貌
 
 WIKI
 ----
@@ -55,10 +55,10 @@ WIKI
 下载
 ---
 
-官方 CM 12.1 版本: [http://download.cyanogenmod.org/?device=cancro][14]
-百度云：[http://pan.baidu.com/s/1sjDUTGx][15] （包含 Cyanogen Recovery）
-Google Apps (arm): [http://wiki.cyanogenmod.org/w/gapps][16]
-百度云：[http://pan.baidu.com/s/1mg3pDXm][17]
+ - 官方 CM 12.1 版本: [http://download.cyanogenmod.org/?device=cancro][14]
+ - 百度云：[http://pan.baidu.com/s/1sjDUTGx][15] （包含 Cyanogen Recovery）
+ - Google Apps (arm): [http://wiki.cyanogenmod.org/w/gapps][16]
+ - 百度云：[http://pan.baidu.com/s/1mg3pDXm][17]
 
 BUGS
 ----
