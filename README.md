@@ -1,3 +1,6 @@
+如需提交 issues 请访问 [https://ca.cm.airscr.com/][5] 。
+Report any issues, please visit [https://ca.cm.airscr.com/][5] .
+
 由 [AirScript][6] 提供的中文 CyanogenMod 社区支持。
 
 ![cyanogenmod-logo.jpg][7]
@@ -102,7 +105,7 @@ XDA:DevDB 信息
  - 最后更新日期 2015-07-26
 
 
-
+  [5]: https://ca.cm.airscr.com/
   [6]: https://www.airscr.com/
   [7]: https://dn-airscr.qbox.me/2015/08/2964752827.png
   [8]: https://github.com/CyanogenMod
