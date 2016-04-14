@@ -56,9 +56,11 @@ WIKI
 ---
 
 最新 Nightly 版本 : [http://get.cm/get/cancro-latest.zip][12]
+
 最新 Recovery (Nightly 版本) : [http://get.cm/get/cancro-latest-recovery.img][13]
 
 Google Apps (arm): [http://wiki.cyanogenmod.org/w/Gapps][14]
+
 所有版本: [http://download.cyanogenmod.org/?device=cancro][15]
 
 BUGS
@@ -70,10 +72,15 @@ BUGS
 -----
 
 版本： nightlies， (12.1 snapshot)
+
 最新的 Snapshot 版本： YOG7D
+
 是否会获得下一个 Snapshot： 会
+
 已知问题： 无
+
 Security (kernel): all CVE (Common Vulnerabilities and Exposures) are fixed
+
 Supported CMHW classes: DisplayColorCalibration.java; KeyDisabler.java; VibratorHW.java; HighTouchSensivity.java
 
 常见问题
