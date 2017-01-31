@@ -17,12 +17,12 @@ CyanogenMod 是一个基于 AOSP（Android 开源项目 Android Open Source Proj
 
 注意
 ---
-我们不会对以下用户提供支持或解决问题：
-运行第三方内核
-以及进入刷机模式
-修改系统文件
-不严格执行我们的步骤
-没有礼貌
+ - 我们不会对以下用户提供支持或解决问题：
+ - 运行第三方内核
+ - 以及进入刷机模式
+ - 修改系统文件
+ - 不严格执行我们的步骤
+ - 没有礼貌
 
 WIKI
 ----
@@ -113,13 +113,16 @@ XDA:DevDB 信息
 
 **贡献者**
 [linuxxxx][17]
+
 ROM 系统版本: 6.0.x Marshmallow
+
 ROM 内核: Linux 3.4.x
 
 **版本信息：**
 状态: Nightly
 
 创建于 2015-12-22
+
 最后更新日期 2015-12-22
   [5]: https://www.airscr.com/
   [6]: https://dn-airscr.qbox.me/2015/08/2964752827.png
