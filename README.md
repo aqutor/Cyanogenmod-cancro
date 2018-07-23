@@ -2,6 +2,7 @@
 
 ![cyanogenmod-logo.jpg][6]
 
+
 CyanogenMod 是 Android 6.0.x (Marshmallow 棉花糖) 免费自由的二次社区固件。它的目的是为您的设备提供高于普通 Android 的稳定性和可靠性。
 
 > * 你的行为可能造成保修无效。
